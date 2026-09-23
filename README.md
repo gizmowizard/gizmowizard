@@ -6,6 +6,7 @@ Owner, Founder and Maintainer of *Lyntr, Geddit and Verdict,* as well as the par
 
 Active Developer and Researcher at MIT.
 
-Have a good day, and as always, **touch grass!**
+> [!NOTE]
+> Follow me on Bluesky or Lyntr. Both are given right below my bio!
 
-Follow me on Bluesky or Reddit, and checkout Lyntr, the best social media: https://lyntr.gizmowizard.tech 
+<sub>Have a good day, and as always, **touch grass!**</sub>
