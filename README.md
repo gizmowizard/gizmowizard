@@ -1,6 +1,6 @@
 ## Hi! I'm GizmoWizard.
 
-The proud Owner, Founder and Maintainer of *Lyntr, Geddit and Verdict,* as well as the parent organization, **GizmoWizardNet (c) 2026.** Founder of [Verdure Labs](https://verdurelabs.dpdns.org) as well.
+The proud Owner, Founder and Maintainer of *Lyntr, Geddit, Verdict and Ripplr,* as well as the parent organization, **GizmoWizardNet (c) 2026.** Founder of [Verdure Labs](https://verdurelabs.dpdns.org) as well.
 
 Active Developer and Researcher at MIT.
 
